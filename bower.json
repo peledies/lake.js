@@ -1,0 +1,30 @@
+{
+  "name": "lake-js",
+  "main": "lake.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Alligator/lake.js",
+  "authors": [
+    "Reece Selwood",
+    "Deac Karns <peledies@gmail.com>"
+  ],
+  "description": "Makes cool ass lakes",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "lake",
+    "canvas",
+    "image"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.0.3"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
